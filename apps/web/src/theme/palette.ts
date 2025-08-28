@@ -9,9 +9,4 @@ export const palette: PaletteOptions = {
   error: { main: "#D32F2F" },
   background: { default: "#F7F8FA", paper: "#FFFFFF" },
   text: { primary: "#0F172A", secondary: "#475569" },
-  risk: {
-    low: { main: "#2E7D32" },
-    medium: { main: "#ED6C02" },
-    high: { main: "#D32F2F" },
-  },
 };
